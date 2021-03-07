@@ -16,11 +16,11 @@
   </dependencies>
   <distributionManagement>
 	<repository>
-	   <id>AROWN</id>
+	   <id>mvnrelese</id>
 	   <url>http://65.0.104.63:8081/repository/mvnrelese/</url>
 	</repository>
 	<snapshotRepository>
-	   <id>artest</id>
+	   <id>mvnsnap</id>
 	   <url>http://65.0.104.63:8081/repository/mvnsnap/</url>
 	</snapshotRepository>		
   </distributionManagement>
