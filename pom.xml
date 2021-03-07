@@ -17,11 +17,11 @@
   <distributionManagement>
 	<repository>
 	   <id>AROWN</id>
-	   <url>http://localhost:8081/nexus/content/repositories/AROWN/</url>
+	   <url>http://65.0.104.63:8081/repository/mvnrelese/</url>
 	</repository>
 	<snapshotRepository>
 	   <id>artest</id>
-	   <url>http://localhost:8081/nexus/content/repositories/artest/</url>
+	   <url>http://65.0.104.63:8081/repository/mvnsnap/</url>
 	</snapshotRepository>		
   </distributionManagement>
 </project>
