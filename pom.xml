@@ -15,14 +15,13 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-
-		<repository>
-			<id>Maven-release</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
-		</repository>
-		<snapshotRepository>
-			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
-		</snapshotRepository>		
+	<repository>
+	   <id>AROWN</id>
+	   <url>http://localhost:8081/nexus/content/repositories/AROWN/</url>
+	</repository>
+	<snapshotRepository>
+	   <id>artest</id>
+	   <url>http://localhost:8081/nexus/content/repositories/artest/</url>
+	</snapshotRepository>		
   </distributionManagement>
 </project>
